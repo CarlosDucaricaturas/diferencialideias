@@ -4,21 +4,24 @@
  box-sizing: border-box;
  
  
-  font-family: "Ubuntu", sans-serif;
+  font-family: "Helvetica", sans-serif;
   font-weight: 700;
   font-style: normal;
   
 }
 
+a:hover {
+  color:rgb(90, 90, 90); /* Cor do link ao passar o mouse */
+}
 
 body{
  
-  background-color: rgb(0, 0, 0);
+  background-color: rgb(216, 216, 216);
   height: 100vh;
 }
 
 .interface img{
- width: 220px;
+ width: 260px;
  height: 120px;
 }
 
@@ -39,7 +42,7 @@ header > .interface{
 }
 
 header a{
-  color:rgb(255, 255, 255);
+  color:rgb(0, 0, 0);
   text-decoration: none;
 }
 
@@ -76,12 +79,12 @@ header nav ul li{
   font-size: 18px;
   list-style: none;
   text-align: center;
-  color:rgb(255, 255, 255);
+  color:rgb(90, 90, 90);
  }
 
  section.slider{
   margin: 0 auto;
-  width: 100%;
+  width: 70%;
   height: auto;
   padding: 0 !important;
   overflow: hidden;

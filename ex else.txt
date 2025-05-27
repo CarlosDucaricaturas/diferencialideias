@@ -1,0 +1,4 @@
+else { (cont < 3 ) 
+      cont = 1
+    }
+   
