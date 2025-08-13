@@ -1,0 +1,134 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  margin-top: 10px;
+  
+  
+   font-family: "Helvetica", sans-serif,cursive;
+   font-weight: 700;
+   font-style: normal;
+   
+ }
+ 
+ 
+ body{
+  
+   background-color:  rgb(216, 216, 216);
+   
+ }
+ 
+ h1{
+   margin: 2%;
+  padding:0 10px;
+  font-size: 40px;
+  list-style: none;
+  text-align: center;
+  color:rgb(0, 0, 0);
+  
+ }
+
+ h2{
+  padding:0 10px;
+  font-size: 25px;
+  list-style: none;
+  
+  text-align: center;
+  color:rgb(90, 90, 90);
+  
+ 
+ }
+
+ .Porcelana1 li{
+  display: inline-block;
+  padding:0 80px;
+  font-size: 18px;
+  list-style: none;
+  text-align: center;
+ 
+}
+
+.interface1 img{
+  width: 260px;
+  height: 120px;
+  padding: 15px 30px;
+  width: 630px;
+  height: 530px;
+ align-items: center;
+ position: absolute;
+   right: 7%;
+   top: -10%;
+ }
+
+ .interface2 img{
+  width: 260px;
+  height: 120px;
+  padding: 15px 30px;
+  width: 630px;
+  height: 530px;
+ align-items: center;
+ position: absolute;
+   right: 7%;
+   top: 65%;
+ }
+ 
+ .interface3 img{
+  width: 260px;
+  height: 120px;
+  padding: 15px 30px;
+  width: 630px;
+  height: 530px;
+ align-items: center;
+ position: absolute;
+   right: 7%;
+   top: 130%;
+ }
+
+ .interface4 img{
+  width: 260px;
+  height: 120px;
+  padding: 15px 30px;
+  width: 630px;
+  height: 530px;
+ align-items: center;
+ position: absolute;
+   right: 7%;
+   top: 440%;
+ }
+ 
+    
+    .chamativo-btn {
+      display: inline-block;
+      padding: 15px 30px;
+      font-size: 16px;
+      text-align: right;
+      text-decoration: none;
+      border: 2px solid #ffffff; /* Cor da borda do botão */
+      border-radius: 5px;
+      background-color: #2767f0; /* Cor de fundo do botão */
+      color: #ffffff; /* Cor do texto do botão */
+      position: relative;
+      overflow: hidden;
+      transition: background-color 0.3s ease, box-shadow 0.3s ease;
+      position: relative;
+      top: 58%;
+      right: -150%;
+    
+    }
+    
+    .chamativo-btn:hover {
+      background-color: rgb(0, 0, 0); /* Cor de fundo do botão ao passar o mouse */
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.3); /* Efeito de luz ao redor do botão */
+    }
+ 
+   
+    
+     footer{
+       padding:0 40px;
+       font-size: 18px;
+       list-style: none;
+       text-align: center;
+       color:rgb(90, 90, 90);
+      }
+ 
+    
