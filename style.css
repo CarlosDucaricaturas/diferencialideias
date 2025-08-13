@@ -171,3 +171,55 @@ header nav ul li{
   #radio4:checked ~ .primeiro{
     margin-left: -75%;
   }
+
+
+  @media screen and (max-width: 580px){
+    .menu {
+      margin: -201px;
+    list-style: ;
+    display: flex;
+    gap: 0px;
+    align-items: center;
+    font-size: 12px;
+     
+    
+     
+  }
+  
+   .background{
+    width:  300px ;
+    height: 3195px;
+  content:'';
+  background-image: url('fundo\ 2.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  opacity: 0.94;
+  z-index: -1;
+   }
+  
+   .slider {
+    display: flex;
+    flex-direction: column;
+    border-radius: 20px;
+    position: top;
+    width: 4000%;
+    margin-top: 300%;
+    display: flex;
+    justify-content: center;
+  
+   }
+  
+   .slider-content{
+    width: 720%;
+    height: auto;
+    display: flex;
+  }
+  
+  
+     
