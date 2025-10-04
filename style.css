@@ -177,7 +177,7 @@ header nav ul li{
     .menu desktop{
       margin: -201px;
     list-style: ;
-    display: none;
+    display: inline;
     gap: 0px;
     align-items: center;
     font-size: 12px;
@@ -224,3 +224,4 @@ header nav ul li{
   
 
      
+
