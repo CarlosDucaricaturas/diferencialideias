@@ -173,11 +173,11 @@ header nav ul li{
   }
 
 
-  @media screen and (max-width: 580px){
+  @media screen and (max-width: 1020px){
     .menu desktop{
       margin: -201px;
     list-style: ;
-    display: inline;
+    display: column-reverse;
     gap: 0px;
     align-items: center;
     font-size: 12px;
@@ -224,4 +224,5 @@ header nav ul li{
   
 
      
+
 
