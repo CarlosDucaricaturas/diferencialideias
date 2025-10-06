@@ -41,8 +41,8 @@ h1{
  @media screen and (max-width: 1020px){
 
       h1{
-        padding:0 40px;
-        font-size: 60px;
+        padding:0 70px;
+        font-size: 30px;
         list-style: none;
         text-align: center;
         color:rgb(0, 0, 0);
@@ -60,5 +60,6 @@ h1{
 
 
    
+
 
 
