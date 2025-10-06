@@ -1,0 +1,42 @@
+* {
+ margin: 0;
+ padding: 0;
+ box-sizing: border-box;
+ 
+ 
+  font-family: "Helvetica", sans-serif,cursive;
+  font-weight: 700;
+  font-style: normal;
+  
+}
+
+
+body{
+ 
+  background-color:  rgb(216, 216, 216);
+  
+}
+
+h1{
+    padding:0 40px;
+    font-size: 40px;
+    list-style: none;
+    text-align: center;
+    color:rgb(90, 90, 90);
+    
+   }
+
+   
+   
+
+  
+   
+    footer{
+      padding:0 40px;
+      font-size: 18px;
+      list-style: none;
+      text-align: center;
+      color:rgb(90, 90, 90);
+     }
+
+   
