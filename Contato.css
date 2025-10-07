@@ -79,8 +79,19 @@ footer{
       text-align: bottom;
       color:rgb(0, 0, 0);
   }
+
+  a {
+  text-decoration: none; /* Remove o sublinhado do link */
+  padding:0 10px;
+  font-size: 13px;
+  list-style: none;
+  text-align: center;
+  color:rgb(0, 0, 0);
+
+}
  
  }
+
 
 
 
