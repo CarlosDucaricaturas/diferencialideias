@@ -48,7 +48,7 @@ h1{
      @media screen and (max-width: 1020px){
 
       h1{
-        padding:0px;
+        padding:10px 30px;
         font-size: 40px;
         list-style: none;
         text-align: center;
@@ -83,4 +83,5 @@ h1{
 
    
    
+
 
