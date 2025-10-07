@@ -83,14 +83,22 @@ footer{
   a {
   text-decoration: none; /* Remove o sublinhado do link */
   padding:0 10px;
-  font-size: 13px;
+  font-size: 12px;
   list-style: none;
   text-align: center;
   color:rgb(0, 0, 0);
-
 }
+
+  .interface img{
+  width: 40px;
+  height: 40px;
+  
+ 
+  }
+
  
  }
+
 
 
 
