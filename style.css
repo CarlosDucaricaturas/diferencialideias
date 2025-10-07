@@ -174,28 +174,20 @@ header nav ul li{
 
 
   @media screen and (max-width: 1020px){
-    .menu desktop{
-      margin: -201px;
-    list-style: ;
-    display: column-reverse;
-    gap: 0px;
-    align-items: center;
-    font-size: 9px;
-    }
-
    header nav ul li{
       display: inline-block;
       padding:0 20px;
-      font-size: 15px;
+      font-size: 14px;
       color: rgb(255, 255, 255);
      }
-   .interface img{
-      width: 200px;
-      height: 90px;
-      position: bottom;
-     }
 
-   
+     .interface img{
+      width: 100px;
+      height: 60px;
+    position: bottom;
+      display: row-reverse;
+     }
+    
   
    .background{
     width:  300px ;
@@ -215,11 +207,11 @@ header nav ul li{
    }
   
    .slider {
-    display: none;
+    display: flex;
     flex-direction: column;
     border-radius: 20px;
     position: top;
-    width: 0%;
+    width: 4000%;
     margin-top: 300%;
     display: flex;
     justify-content: center;
@@ -231,10 +223,20 @@ header nav ul li{
     height: auto;
     display: flex;
   }
+
+  header nav ul li{
   
+    padding:0 5px;
+    font-size: 10px;
+    color: rgb(255, 255, 255);
+   
+  
+  }
+}
   
 
      
+
 
 
 
