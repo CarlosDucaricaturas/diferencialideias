@@ -73,10 +73,11 @@ footer{
       }
  
   footer{
-      padding:0 40px;
+      padding:0 90px;
       font-size: 10px;
       list-style: none;
-      text-align: bottom;
+      text-align: center;
+   
       color:rgb(0, 0, 0);
   }
 
@@ -98,6 +99,7 @@ footer{
 
  
  }
+
 
 
 
