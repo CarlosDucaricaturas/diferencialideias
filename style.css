@@ -225,11 +225,21 @@ header nav ul li{
   }
 
   header nav ul li{
-  
-   padding:0 2px;
-    font-size: 12px;
+    
+    padding:0 2px;
+    font-size: 15px;
     color: rgb(255, 255, 255);
    }
+
+   .Produtos li{
+    display: inline-block;
+    padding:0 80px;
+    font-size: 16px;
+    list-style: none;
+    text-align: center;
+   
+  }
+  
 
    
    footer{
@@ -244,6 +254,7 @@ header nav ul li{
   
 
      
+
 
 
 
