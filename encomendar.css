@@ -28,12 +28,21 @@ h1{
 
   
 
-    .Encomendar img{
-      width: 820px;
-      height:580px;
+   .Encomendar li{
+     
       list-style-type: none;
       align-items: center;
-      padding:0 8px;
+      display:inline-flex;
+      margin-right: -280px;
+      
+     }
+
+     .Encomendar img{
+      width: 780px;
+      height:520px;
+      list-style-type: none;
+      align-items: center;
+      padding:0 30px;
      }
     
    
@@ -83,6 +92,7 @@ h1{
 
    
    
+
 
 
 
