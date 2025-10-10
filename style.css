@@ -174,13 +174,25 @@ header nav ul li{
 
 
   @media screen and (max-width: 1020px){
-    header nav ul li{
-      display: inline;
-      padding:0 20px;
-      font-size: 14px;
+     header nav ul li{
+    margin-left: 6px;
+     font-size: 8px;
       color: rgb(255, 255, 255);
-      
+      padding:0 1px;
+  
+     margin-bottom: -122px;
+
+    
+  }
+     
+     .interface img{
+      width: 200px;
+      height:  130px;
+      margin-top: -7px;
+      margin-left: 140px;
+    margin-bottom: 14%;
      }
+
 
    .slider-content{
     width: 0%;
@@ -190,8 +202,8 @@ header nav ul li{
   }
 
    .Produtos li{
-    margin-bottom: 5%;
-    padding:0 80px;
+    margin-bottom: 0%;
+    padding:0 70px;
     font-size: 12px;
     list-style: none;
     text-align: center;
@@ -206,19 +218,9 @@ header nav ul li{
     color:rgb(90, 90, 90);
     
    }
+
+  
   
     
      
   }
-
-
-
-
-
-
-
-
-
-
-
-
