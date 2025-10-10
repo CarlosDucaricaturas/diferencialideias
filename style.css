@@ -174,92 +174,42 @@ header nav ul li{
 
 
   @media screen and (max-width: 1020px){
-   header nav ul li{
-      display: inline-block;
+    header nav ul li{
+      display: inline;
       padding:0 20px;
       font-size: 14px;
       color: rgb(255, 255, 255);
+      
      }
 
-     .interface img{
-      width: 100px;
-      height: 60px;
-    position: bottom;
-      display: row-reverse;
-     }
-    
-  
-   .background{
-    width:  300px ;
-    height: 3195px;
-  content:'';
-  background-image: url('fundo\ 2.jpg');
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-position: center;
-  position: absolute;
-  top: 0;
-  left: 0;
-  bottom: 0;
-  right: 0;
-  opacity: 0.94;
-  z-index: -1;
-   }
-  
-   .slider {
-    display: flex;
-    flex-direction: column;
-    border-radius: 20px;
-    position: top;
-    width: 4000%;
-    margin-top: 300%;
-    display: flex;
-    justify-content: center;
-  
-   }
-  
    .slider-content{
     width: 0%;
     height: auto;
     display: flex;
+  
   }
 
-  header nav ul li{
-    
-    padding:0 2px;
-    font-size: 15px;
-    color: rgb(255, 255, 255);
-   }
-
    .Produtos li{
-    display: inline-block;
+    margin-bottom: 5%;
     padding:0 80px;
-    font-size: 16px;
+    font-size: 12px;
     list-style: none;
     text-align: center;
    }
-    
+  
+
    footer{
-          padding:0px;
-          font-size: 12px;
-          list-style: none;
-          text-align: center;
-          color:rgb(90, 90, 90);
-           margin-right: -59px;
-         }
-
-         
-  }
+    padding:0 40px;
+    font-size: 13px;
+    list-style: none;
+    text-align: center;
+    color:rgb(90, 90, 90);
+    
+   }
   
-
-   
-   
-}
-  
-
+    
      
-
-
+  }
 
 
 
