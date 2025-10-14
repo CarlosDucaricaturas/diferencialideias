@@ -30,14 +30,14 @@ h1{
     height: 170px;
     }
 
-    footer{
+  footer{
       padding:0 40px;
-      font-size: 35px;
+      font-size: 18px;
       list-style: none;
       text-align: center;
       color:rgb(90, 90, 90);
-      text-decoration: none;
      }
+
 
      @media screen and (max-width: 1020px){
 
@@ -51,11 +51,12 @@ h1{
     
      footer{
       padding:0 -1px;
-      font-size: 22px;
+      font-size: 14px;
       list-style: none;
       text-align: center;
       color:rgb(90, 90, 90);
      }
     }
+
 
 
