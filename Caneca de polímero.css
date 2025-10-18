@@ -71,8 +71,10 @@
     font-size: 18px;
     list-style: none;
     text-align: center;
-    margin: 54px;
-    margin-top: 55px;
+    margin-top: 95px;
+    margin-left: 150px;
+    margin-right: -50px;
+
 
    
    }
@@ -237,3 +239,4 @@
        
         
      }
+
