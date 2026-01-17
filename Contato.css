@@ -84,7 +84,7 @@ footer{
  
  @media screen and (max-width: 1020px){
 
-       h1{
+     h1{
         padding:0px;
         font-size: 50px;
         list-style: none;
@@ -120,7 +120,8 @@ footer{
        text-align: center;
        color:rgb(90, 90, 90);
        margin-top: -30px;
-        margin-right: -270px;
+       margin-right: -270px;
+       
       }
  
    a {
@@ -143,11 +144,8 @@ footer{
   
   }
  
-
-
-
-
-
+ 
+ 
 
 
 
