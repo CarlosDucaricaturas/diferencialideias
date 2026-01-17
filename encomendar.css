@@ -26,11 +26,13 @@ body{
 h1{
     margin-bottom: 30px;
     padding:0 40px;
-    font-size: 60px;
+    font-size: 50px;
     list-style: none;
     text-align: center;
     color:rgb(90, 90, 90);
-    
+    margin-left: 10px;
+    margin-bottom: -30px;
+    margin-top: -200px;
    }
   
    h2{
@@ -81,7 +83,7 @@ h1{
 
        h2{
         display: inline-block;
-        margin-top: -7px;
+        margin-top: -150px;
         margin-left: 95px;
         margin-bottom: 20%;
      
@@ -106,8 +108,8 @@ h1{
        }
       
        .logo img{
-        width: 320px;
-        height: 190px;
+       width: 380px;
+        height: 220px;
         margin-left: 150px;
         }
       
@@ -132,6 +134,7 @@ h1{
     
 
    
+
 
 
 
