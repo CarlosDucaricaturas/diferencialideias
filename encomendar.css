@@ -71,7 +71,7 @@ h1{
 
      @media screen and (max-width: 1020px){
 
-    h1{
+  h1{
        
         font-size: 50px;
         list-style: none;
@@ -84,8 +84,8 @@ h1{
        h2{
         display:block;
         margin-top: -150px;
-        margin-left: 95px;
-        margin-bottom: -60px;
+        margin-left: 130px;
+        margin-bottom: -10px;
      
           
          }
@@ -112,9 +112,9 @@ h1{
        }
       
        .logo img{
-        width: 430px;
-        height: 250px;
-        margin-left: 130px;
+        width: 460px;
+        height: 280px;
+        margin-left: 125px;
         margin-bottom: 80px;
         }
       
@@ -139,10 +139,7 @@ h1{
     
 
    
-    
-    
 
-   
 
 
 
