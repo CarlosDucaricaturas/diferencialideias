@@ -158,11 +158,12 @@
        }
 
        h2{
-        display: inline-block;
-        margin-top: -7px;
-        margin-left: 95px;
-        margin-bottom: 20%;
-     
+       display:block;
+      margin-top: -7px;
+      margin-left: 95px;
+      margin-bottom: 2%;
+      height: 80px;
+        
           
          }
    
@@ -271,3 +272,4 @@
         
 
      }
+
