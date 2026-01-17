@@ -157,13 +157,14 @@
      }
    
      .Polímero li{
-      display: inline-block;
+      display:inline-block;
       padding: 0 20px;
       font-size: 18px;
       list-style: none;
       text-align: center;
       margin: 54px;
-      margin-top: -12px;
+      margin-top: -90px;
+  
   
      
      }
@@ -251,6 +252,7 @@
        
         
      }
+
 
 
 
