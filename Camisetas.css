@@ -135,10 +135,10 @@
         padding:0 40px;
         font-size: 40px;
         list-style: none;
-        text-align: center;
+          margin-right: -50px;
         color:rgb(90, 90, 90);
        margin-bottom: -4px;
-        margin-top: -14px;
+        margin-top: -30px;
        }
 
        h2{
